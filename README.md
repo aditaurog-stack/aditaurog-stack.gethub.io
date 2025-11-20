@@ -8,17 +8,4 @@
 |    Moana     |   Outer Banks   |     Raye    |
 
 
-import java.util.Scanner;
-
-public class Main {
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-
-       What is your favourite movie
-        String answer = input.nextLine();   // reads a line of text
-
-        System.out.println("You entered: " + answer);
-    }
-}
-
 
