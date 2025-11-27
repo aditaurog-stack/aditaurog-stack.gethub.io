@@ -1,4 +1,4 @@
-# Adis Catalogue
+# Adi's Catalogue
 These are my favourite's
 |    Movies    |      Series     |    Artist   |      books    |
 |--------------|-----------------|-------------|---------------|
