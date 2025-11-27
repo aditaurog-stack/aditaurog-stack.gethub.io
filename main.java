@@ -1,14 +1,11 @@
-import java.util.*;
-
-public class Main {
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-
-        System.out.print("Tell Me your favourite movies : ");
-        String line = input.nextLine();
-
-        List<String> items = Arrays.asList(line.split(","));
-
-        System.out.println("Your movies: " + items);
-    }
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Questionnaire</title>
+</head>
+<body>
+    <h1>Welcome to my questionnaire website</h1>
+    <p>If you can see this, Step 1 is working 🎉</p>
+</body>
+</html>
